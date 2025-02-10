@@ -13,7 +13,7 @@ export default function Home() {
         <div className="bg-[url('kumbh3.jpg')] bg-cover bg-center h-[90vh] flex items-center justify-center">
           <div className="bg-[#000000a8] h-full w-full">
             <h2 className="text-4xl sm:text-5xl tiro text-white p-5 pt-20 pl-10">
-              <Typewriter text="Kumbh Mela," delay={100} />
+              <Typewriter text="Mahakumbh," delay={100} />
             </h2>
             <p className="text-lg sm:text-2xl tiro-small text-white p-7 pl-10 sm:pl-20">
               <Typewriter
