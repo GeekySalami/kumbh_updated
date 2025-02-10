@@ -31,11 +31,11 @@ export default function Home() {
         </div>
       </div>
 
-      <div className="justify-center text-center p-4">
-        <p className="text-[2vw] underline">Contributors:</p>
-        <div className="flex justify-evenly p-3">
-        <Contributors key="1" name="Priya Mishra" position="Assistant Product Manager" />
-        <Contributors key="2" name="Sharvil Palvekar" position="ML Intern" />
+      <div className="flex justify-evenly p-3">
+        <Contributors key="1" name="Nischala Mayam" position="IKS Scholar" />
+        <Contributors key="2" name="Ganesh Ramakrishnan" position="Professor, CSE Department" />
+        <Contributors key="3" name="Priya Mishra" position="AI Research Scholar" />
+        <Contributors key="4" name="Sharvil Palvekar" position="ML Intern" />
         </div>
       </div>
       <Footer />
